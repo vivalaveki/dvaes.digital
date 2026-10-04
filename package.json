@@ -1,8 +1,0 @@
-{
-  "name": "dvaes-digital",
-  "private": true,
-  "scripts": {
-    "start": "npx --yes serve . -l 3000",
-    "preview": "npm run start"
-  }
-}
